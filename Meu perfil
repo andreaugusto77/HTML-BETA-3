@@ -1,0 +1,24 @@
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <title>Sulamita viana   HTML </title>
+    </head>
+    <body>
+        <h3> Este é meu perfil  HTML.</h1>
+        <p>
+            <b>Sejam bem vindos (as) ao meu perfil !</b> <br>
+            <b> Meu nome é Sulamita Viana ! </b><br>
+            
+        <ul> Sexo: Feminino </ul>
+        <ul>Idade :21 anos </ul>
+        <ul> Cidade : Juiz de Fora - MG </ul>
+        <ul> Comida favorita : Frango com quiabo </ul>
+        <ul> Cor favorita : Branco </ul>
+        <ul> Curso : Desenvolvimento de Sistema </ul>
+    
+        <img height="200" width="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDQ2OTM1NzI4YjdhMTNiMTg0MDIwMmNhYzBmMjk1YzVlMTU2ZTllNyZjdD1n/kd8eRZ4Tb1dE28DXj9/giphy.gif" />
+        <ol></ol>
+        <a href="https://www.instagram.com/"tardget="blank="> Visite meu perfil </a>
+        </p>
+    </bood>      
+</html>            
